@@ -1,5 +1,5 @@
 # Ophelia Strokes
-Summary: A python program that generates abstract art with variety of styles, shapes, adjustable options and randomization, using pygame.
+A python program that generates abstract art with variety of styles, shapes, adjustable options and randomization, using pygame.
 
 ## Requirement
 1. Python version: 3.7.6
